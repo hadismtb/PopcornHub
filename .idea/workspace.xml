@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed73a008-19a2-47fd-a758-fe819d9193eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +69,7 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\Next\PopcornHub\public" />
+      <recent name="D:\Projects\Next\PopcornHub\app" />
     </key>
   </component>
   <component name="RunManager" selected="npm.Next.js: server-side">
@@ -105,6 +104,7 @@
       <workItem from="1747159947726" duration="1784000" />
       <workItem from="1747212728345" duration="12000" />
       <workItem from="1753030457516" duration="879000" />
+      <workItem from="1753031383623" duration="2817000" />
     </task>
     <servers />
   </component>
